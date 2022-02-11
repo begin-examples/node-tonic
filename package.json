@@ -20,7 +20,7 @@
   "dependencies": {
     "@architect/sandbox": "^4.4.2",
     "tonic": "^0.1.0",
-    "tonic-ssr": "^1.1.2"
+    "tonic-ssr": "^1.2.1"
   },
   "devDependencies": {
     "@architect/architect": "^9.4.2"
