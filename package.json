@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/begin-examples/node-tonic#readme",
   "dependencies": {
-    "@architect/sandbox": "^4.4.2",
+    "@architect/sandbox": "^5.0.2",
     "tonic": "^0.1.0",
     "tonic-ssr": "^1.2.1"
   },
