@@ -23,6 +23,6 @@
     "tonic-ssr": "^1.2.1"
   },
   "devDependencies": {
-    "@architect/architect": "^10.3.2"
+    "@architect/architect": "^10.3.3"
   }
 }
